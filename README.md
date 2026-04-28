@@ -1,1 +1,1 @@
-# MR.Cooper-inventory-management-system
+A command-line based Inventory Management System built with Python. This application allows users to manage product inventory through CRUD operations (Create, Read, Update, Delete) and generate detailed reports for inventory analysis.
